@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PerfilUsuario</string>
+    <string name="personal">Personal</string>
+    <string name="profesional">Profesional</string>
+    <string name="acceso">Acceso</string>
+    <string name="config">configuracion</string>
+    <string name="nombre">Nombre: </string>
+    <string name="apellido">Apellido:</string>
+    <string name="direccion">Direccion</string>
+    <string name="fechaNac">Fecha Nacimiento:</string>
+    <string name="textoBoton">Cambiar contrasena</string>
+    <string name="username">Username</string>
+</resources>
